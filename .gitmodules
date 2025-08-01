@@ -1,5 +1,4 @@
 [submodule "docker"]
 	path = docker
 	url = git@github.com:illia-baliuk/submodule.git
-	branch = master
 	update = rebase
