@@ -7,3 +7,4 @@ echo "Run submodule script"
 
 echo "All done"
 echo "one"
+echo "two"
