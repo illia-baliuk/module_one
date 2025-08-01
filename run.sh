@@ -6,3 +6,4 @@ echo "Run submodule script"
 /docker/test.sh
 
 echo "All done"
+echo "one"
